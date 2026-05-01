@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-30T03:12:09.386Z",
+  "entries": {
+    "memory:memory/2026-04-29.md:9:9": {
+      "key": "memory:memory/2026-04-29.md:9:9",
+      "path": "memory/2026-04-29.md",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Reflections: No strong patterns surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-30T03:10:18.964Z",
+      "lastRecalledAt": "2026-04-30T03:10:18.964Z",
+      "queryHashes": [
+        "312dd0eab707"
+      ],
+      "recallDays": [
+        "2026-04-29",
+        "2026-04-30"
+      ],
+      "conceptTags": [
+        "reflections",
+        "strong",
+        "patterns",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-29.md:12:12": {
+      "key": "memory:memory/2026-04-29.md:12:12",
+      "path": "memory/2026-04-29.md",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-30T03:10:18.964Z",
+      "lastRecalledAt": "2026-04-30T03:10:18.964Z",
+      "queryHashes": [
+        "312dd0eab707"
+      ],
+      "recallDays": [
+        "2026-04-29",
+        "2026-04-30"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    }
+  }
+}
