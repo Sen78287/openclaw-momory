@@ -1,0 +1,55 @@
+{
+  "version": 3,
+  "files": {
+    "bazi:sessions/59e50a0a-3e39-4ed5-b8d8-591c0184790a.jsonl": {
+      "mtimeMs": 1776260476736,
+      "size": 2474,
+      "contentHash": "b9ee12c5cbb0768d8ce4cffb87df1a69bb2480bde142323bd98451faa39455ed",
+      "lineCount": 2,
+      "lastContentLine": 2
+    },
+    "bazi:sessions/6948ac65-d3ec-4afe-aa1a-351ab7ab22a0.jsonl.reset.2026-04-09T15-34-36.766Z": {
+      "mtimeMs": 1775402901628,
+      "size": 15214,
+      "contentHash": "251ebdb525c58c28effc0f582d21d2075c10f2b2b0b6790f26b70a86b9bbe0be",
+      "lineCount": 7,
+      "lastContentLine": 7
+    },
+    "bazi:sessions/a3074be4-7b04-4731-a101-704c0a27feae.jsonl.reset.2026-04-10T08-12-19.518Z": {
+      "mtimeMs": 1775749724741,
+      "size": 29681,
+      "contentHash": "6cfb6217c0949d99787e093d6d6f7fce56470942693f0877649e44f52f16222f",
+      "lineCount": 4,
+      "lastContentLine": 4
+    },
+    "bazi:sessions/a7b59754-1af8-460c-8645-fe768b620481.jsonl.reset.2026-04-12T08-12-02.903Z": {
+      "mtimeMs": 1775808743857,
+      "size": 2028,
+      "contentHash": "c93443d26f1a6214c9d832915f52cd77d81d1ea2156e294c0814adfb8c902694",
+      "lineCount": 1,
+      "lastContentLine": 1
+    },
+    "bazi:sessions/db01ed8b-b802-4ba0-807b-a19dcd44b628.jsonl.reset.2026-04-15T13-40-21.212Z": {
+      "mtimeMs": 1776167375126,
+      "size": 10275,
+      "contentHash": "34edce944ed3819fbddb667084e9965ed34ba297caaa3494e180df00b5977bf5",
+      "lineCount": 4,
+      "lastContentLine": 4
+    }
+  },
+  "seenMessages": {
+    "bazi:59e50a0a-3e39-4ed5-b8d8-591c0184790a": [
+      "55cb4ec615f18d4677568fa194f7b20178544409",
+      "12c7bec34333291462c12f7adf070bd8c6167b55"
+    ],
+    "bazi:6948ac65-d3ec-4afe-aa1a-351ab7ab22a0": [],
+    "bazi:a3074be4-7b04-4731-a101-704c0a27feae": [],
+    "bazi:a7b59754-1af8-460c-8645-fe768b620481": [],
+    "bazi:db01ed8b-b802-4ba0-807b-a19dcd44b628": [
+      "1b635d68afa5692efff329500f0465d3e4d6f44c",
+      "01096df6f1640d6586ce367ca29ac484b7778030",
+      "a1ab4a1d7eeda49102f463e15f5f8737a8ebf355",
+      "504380b31cae0c61a1a60c50ae51e3e40756b410"
+    ]
+  }
+}
