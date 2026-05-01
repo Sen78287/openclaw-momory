@@ -1,0 +1,90 @@
+{
+  "exportedAt": "2026-05-01T01:19:18.397Z",
+  "sourceDataRoot": "/vol1/@apphome/trim.openclaw/data",
+  "exportRoot": "memory-export",
+  "fileCount": 765,
+  "totalBytes": 3605086,
+  "roots": 231,
+  "sampleFiles": [
+    {
+      "path": "home/.openclaw/agency-agents/academic-anthropologist/memory/.dreams/daily-ingestion.json",
+      "size": 210
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-anthropologist/memory/.dreams/events.jsonl",
+      "size": 1279
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-anthropologist/memory/.dreams/phase-signals.json",
+      "size": 457
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-anthropologist/memory/.dreams/short-term-recall.json",
+      "size": 1606
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-anthropologist/memory/2026-04-29.md",
+      "size": 314
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-anthropologist/memory/2026-04-30.md",
+      "size": 1724
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-geographer/memory/.dreams/daily-ingestion.json",
+      "size": 210
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-geographer/memory/.dreams/events.jsonl",
+      "size": 1263
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-geographer/memory/.dreams/phase-signals.json",
+      "size": 457
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-geographer/memory/.dreams/short-term-recall.json",
+      "size": 1606
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-geographer/memory/2026-04-29.md",
+      "size": 314
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-geographer/memory/2026-04-30.md",
+      "size": 1724
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-narratologist/memory/.dreams/daily-ingestion.json",
+      "size": 210
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-narratologist/memory/.dreams/events.jsonl",
+      "size": 1275
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-narratologist/memory/.dreams/phase-signals.json",
+      "size": 457
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-narratologist/memory/.dreams/short-term-recall.json",
+      "size": 1606
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-narratologist/memory/2026-04-29.md",
+      "size": 314
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-narratologist/memory/2026-04-30.md",
+      "size": 1724
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-psychologist/memory/.dreams/daily-ingestion.json",
+      "size": 210
+    },
+    {
+      "path": "home/.openclaw/agency-agents/academic-psychologist/memory/.dreams/events.jsonl",
+      "size": 1271
+    }
+  ]
+}
