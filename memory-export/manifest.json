@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "exportedAt": "2026-05-01T04:30:32.430Z",
-  "startedAt": "2026-05-01T04:30:05.199Z",
+  "exportedAt": "2026-05-01T07:30:10.695Z",
+  "startedAt": "2026-05-01T07:30:02.062Z",
   "sourceDataRoot": "/vol1/@apphome/trim.openclaw/data",
   "exportRoot": "memory-export",
   "repo": {
@@ -34,7 +34,7 @@
   ],
   "stats": {
     "fileCount": 1617,
-    "totalBytes": 37531102,
+    "totalBytes": 37577804,
     "changedFiles": 1,
     "uploadedFiles": 1,
     "skippedLargeFiles": 0,
@@ -16006,10 +16006,10 @@
       "sourcePath": "/vol1/@apphome/trim.openclaw/data/home/.openclaw/agents/main/sessions/a1176f7c-79d5-4d2d-a4fd-f41004c103c9.jsonl",
       "relativePath": "home/.openclaw/agents/main/sessions/a1176f7c-79d5-4d2d-a4fd-f41004c103c9.jsonl",
       "repoPath": "memory-export/home/.openclaw/agents/main/sessions/a1176f7c-79d5-4d2d-a4fd-f41004c103c9.jsonl",
-      "size": 1415259,
-      "sourceSize": 1415269,
-      "mtimeMs": 1777608978411,
-      "sha256": "0bbaa3c00d3d098c010caa2ec1d48512a885923fcef76e0c628868e1c6f5ca5c",
+      "size": 1461961,
+      "sourceSize": 1461971,
+      "mtimeMs": 1777619758596,
+      "sha256": "e3419ab48edeeb8e557f6098e3b3b4d040c232f73ca9252165647c3840ac63f6",
       "sanitized": true,
       "replacementCount": 1,
       "replacementHits": {
